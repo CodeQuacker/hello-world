@@ -1,5 +1,4 @@
 # hello-world
-test rep
 	Me
 	{
 		Hello, my name is Adam Zalewski, I'm 17yo and I'm from Poland.
